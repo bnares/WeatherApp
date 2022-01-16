@@ -1,0 +1,7 @@
+launch\Main.class
+controller\BaseController.class
+controller\DailyForecast.class
+module-info.class
+controller\MainWindowController.class
+view\View.class
+launch\Starter.class

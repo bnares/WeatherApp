@@ -1,0 +1,4 @@
+--patch-module
+Maven=_
+--add-reads
+Maven=ALL-UNNAMED

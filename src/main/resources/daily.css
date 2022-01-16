@@ -1,0 +1,35 @@
+.root{
+    -fx-font-family: 'JetBrains Mono';
+    -fx-font-size: 10px;
+    -fx-font-weight: bold;
+    -fx-background-color: "black";
+}
+
+
+#scrollPane{
+    -fx-background-color: "black";
+}
+
+#anchorPane{
+    -fx-background-color: "black";
+}
+
+#dailyTest{
+    -fx-background-color: "black";
+}
+
+#mainWIndow{
+    -fx-background-color: "black";
+}
+
+#mainAnchorPane{
+    -fx-background-color: "black";
+}
+
+.label{
+    -fx-text-fill: "white";
+}
+
+#dailyTest{
+    -fx-background-color: "black";
+}
